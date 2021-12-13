@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/webview-x5-release.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2480c3ba841c15deb7dc11aaebcc4774/jetified-webview-x5-release/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2480c3ba841c15deb7dc11aaebcc4774/jetified-webview-x5-release/jars/libs/tbs_sdk_thirdapp_v4.3.0.176_44076_sharewithdownloadwithfile_withoutGame_obfs_20210724_161800.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2480c3ba841c15deb7dc11aaebcc4774/jetified-webview-x5-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2480c3ba841c15deb7dc11aaebcc4774/jetified-webview-x5-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

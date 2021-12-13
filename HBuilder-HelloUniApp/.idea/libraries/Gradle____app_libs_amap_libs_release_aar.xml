@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/amap-libs-release.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/28d00b61b829b934d59ec3d6583b8358/jetified-amap-libs-release/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/28d00b61b829b934d59ec3d6583b8358/jetified-amap-libs-release/jars/libs/AMap_Location_V5.5.0_20210915.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/28d00b61b829b934d59ec3d6583b8358/jetified-amap-libs-release/jars/libs/AMap_Search_V7.9.0_20210331.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/28d00b61b829b934d59ec3d6583b8358/jetified-amap-libs-release/jars/libs/Android_Map3D_SDK_V8.0.1_20210915.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/28d00b61b829b934d59ec3d6583b8358/jetified-amap-libs-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/28d00b61b829b934d59ec3d6583b8358/jetified-amap-libs-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

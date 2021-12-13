@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/iBeacon-release.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a4fc56cd22eb188729276ccbaf7bf092/jetified-iBeacon-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a4fc56cd22eb188729276ccbaf7bf092/jetified-iBeacon-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a4fc56cd22eb188729276ccbaf7bf092/jetified-iBeacon-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/oauth-weixin-release.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/840190a78f92dc6c6e9c7bcf774b286a/jetified-oauth-weixin-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/840190a78f92dc6c6e9c7bcf774b286a/jetified-oauth-weixin-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/840190a78f92dc6c6e9c7bcf774b286a/jetified-oauth-weixin-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

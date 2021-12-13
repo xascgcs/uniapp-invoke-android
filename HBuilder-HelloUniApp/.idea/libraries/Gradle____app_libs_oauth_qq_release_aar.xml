@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/oauth-qq-release.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/277c93efb8a6223a7380333d1f1cfeef/jetified-oauth-qq-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/277c93efb8a6223a7380333d1f1cfeef/jetified-oauth-qq-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/277c93efb8a6223a7380333d1f1cfeef/jetified-oauth-qq-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

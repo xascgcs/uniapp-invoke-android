@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/aps-unipush-release.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/04bad681015be52de118ff3de2fb28e7/jetified-aps-unipush-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/04bad681015be52de118ff3de2fb28e7/jetified-aps-unipush-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/04bad681015be52de118ff3de2fb28e7/jetified-aps-unipush-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
