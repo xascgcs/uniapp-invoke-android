@@ -5,6 +5,10 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0ca992307ca1c1d80666838377dad43d/jetified-baidu-libs-release/jars/libs/BaiduLBS_Android.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0ca992307ca1c1d80666838377dad43d/jetified-baidu-libs-release/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0ca992307ca1c1d80666838377dad43d/jetified-baidu-libs-release/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a73f776cf22daefc853529e1df6aa329/jetified-baidu-libs-release/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a73f776cf22daefc853529e1df6aa329/jetified-baidu-libs-release/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a73f776cf22daefc853529e1df6aa329/jetified-baidu-libs-release/jars/libs/BaiduLBS_Android.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a73f776cf22daefc853529e1df6aa329/jetified-baidu-libs-release/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

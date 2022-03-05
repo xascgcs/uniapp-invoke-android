@@ -5,6 +5,10 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/982de0ba599689f0eb3b5167ad14833f/jetified-weex_livepusher-release/jars/libs/liteavsdk.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/982de0ba599689f0eb3b5167ad14833f/jetified-weex_livepusher-release/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/982de0ba599689f0eb3b5167ad14833f/jetified-weex_livepusher-release/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a3335e0efa93bf23da7363e66179fce6/jetified-weex_livepusher-release/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a3335e0efa93bf23da7363e66179fce6/jetified-weex_livepusher-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a3335e0efa93bf23da7363e66179fce6/jetified-weex_livepusher-release/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a3335e0efa93bf23da7363e66179fce6/jetified-weex_livepusher-release/jars/libs/liteavsdk.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
